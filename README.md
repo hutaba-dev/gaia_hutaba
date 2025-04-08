@@ -1,5 +1,4 @@
-# Gaia_hutaba
-Gaia node running guide 
+# Gaia node running guide 
 
 ## 0. Select model and domain
 
